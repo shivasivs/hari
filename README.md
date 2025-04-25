@@ -1,2 +1,9 @@
 # hari
 website
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/yourusername/repository.git
+git push -u origin master
